@@ -1,0 +1,113 @@
+------------------------------------------------------------
+Timing Analyzer Summary
+------------------------------------------------------------
+
+Type  : Slow 1200mV 85C Model Setup 'RISC_V:RISC_V|control:_control|MemToReg'
+Slack : -16.698
+TNS   : -131.765
+
+Type  : Slow 1200mV 85C Model Setup 'KEY[0]'
+Slack : -16.596
+TNS   : -34286.009
+
+Type  : Slow 1200mV 85C Model Setup 'RISC_V:RISC_V|PC:PC|PC_out[2]'
+Slack : -3.321
+TNS   : -10.844
+
+Type  : Slow 1200mV 85C Model Hold 'RISC_V:RISC_V|PC:PC|PC_out[2]'
+Slack : -4.619
+TNS   : -16.280
+
+Type  : Slow 1200mV 85C Model Hold 'KEY[0]'
+Slack : -2.156
+TNS   : -36.406
+
+Type  : Slow 1200mV 85C Model Hold 'RISC_V:RISC_V|control:_control|MemToReg'
+Slack : 2.102
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'KEY[0]'
+Slack : -3.000
+TNS   : -2932.800
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'RISC_V:RISC_V|PC:PC|PC_out[2]'
+Slack : 0.391
+TNS   : 0.000
+
+Type  : Slow 1200mV 85C Model Minimum Pulse Width 'RISC_V:RISC_V|control:_control|MemToReg'
+Slack : 0.416
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Setup 'RISC_V:RISC_V|control:_control|MemToReg'
+Slack : -15.442
+TNS   : -121.456
+
+Type  : Slow 1200mV 0C Model Setup 'KEY[0]'
+Slack : -15.159
+TNS   : -31230.697
+
+Type  : Slow 1200mV 0C Model Setup 'RISC_V:RISC_V|PC:PC|PC_out[2]'
+Slack : -3.098
+TNS   : -10.145
+
+Type  : Slow 1200mV 0C Model Hold 'RISC_V:RISC_V|PC:PC|PC_out[2]'
+Slack : -4.130
+TNS   : -14.336
+
+Type  : Slow 1200mV 0C Model Hold 'KEY[0]'
+Slack : -1.995
+TNS   : -35.999
+
+Type  : Slow 1200mV 0C Model Hold 'RISC_V:RISC_V|control:_control|MemToReg'
+Slack : 1.944
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'KEY[0]'
+Slack : -3.000
+TNS   : -2932.800
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'RISC_V:RISC_V|control:_control|MemToReg'
+Slack : 0.357
+TNS   : 0.000
+
+Type  : Slow 1200mV 0C Model Minimum Pulse Width 'RISC_V:RISC_V|PC:PC|PC_out[2]'
+Slack : 0.394
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Setup 'KEY[0]'
+Slack : -8.548
+TNS   : -17465.755
+
+Type  : Fast 1200mV 0C Model Setup 'RISC_V:RISC_V|control:_control|MemToReg'
+Slack : -8.174
+TNS   : -64.494
+
+Type  : Fast 1200mV 0C Model Setup 'RISC_V:RISC_V|PC:PC|PC_out[2]'
+Slack : -1.787
+TNS   : -5.904
+
+Type  : Fast 1200mV 0C Model Hold 'RISC_V:RISC_V|PC:PC|PC_out[2]'
+Slack : -2.450
+TNS   : -9.236
+
+Type  : Fast 1200mV 0C Model Hold 'KEY[0]'
+Slack : -1.508
+TNS   : -51.490
+
+Type  : Fast 1200mV 0C Model Hold 'RISC_V:RISC_V|control:_control|MemToReg'
+Slack : 0.806
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'KEY[0]'
+Slack : -3.000
+TNS   : -3362.518
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'RISC_V:RISC_V|PC:PC|PC_out[2]'
+Slack : 0.366
+TNS   : 0.000
+
+Type  : Fast 1200mV 0C Model Minimum Pulse Width 'RISC_V:RISC_V|control:_control|MemToReg'
+Slack : 0.400
+TNS   : 0.000
+
+------------------------------------------------------------

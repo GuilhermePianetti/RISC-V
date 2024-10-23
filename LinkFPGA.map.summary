@@ -1,0 +1,14 @@
+Analysis & Synthesis Status : Successful - Fri Aug 23 11:19:23 2024
+Quartus Prime Version : 22.1std.0 Build 915 10/25/2022 SC Lite Edition
+Revision Name : LinkFPGA
+Top-level Entity Name : LinkFPGA
+Family : Cyclone IV E
+Total logic elements : 4,631
+    Total combinational functions : 2,425
+    Dedicated logic registers : 2,280
+Total registers : 2280
+Total pins : 105
+Total virtual pins : 0
+Total memory bits : 0
+Embedded Multiplier 9-bit elements : 0
+Total PLLs : 0
